@@ -1,0 +1,5 @@
+mcp[cli]>=1.2.0
+google-cloud-firestore>=2.16.0
+pydantic>=2.6.0
+uvicorn>=0.30.0
+starlette>=0.37.0
